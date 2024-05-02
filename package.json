@@ -8,9 +8,18 @@
     "start": "next start",
     "lint": "next lint"
   },
+  {
+    "name": "moises-portfolio",
+    "description": "online portfolio",
+    "version": "1.0.1",
+    "engines": {
+      "node": "20.12.2"
+    }
+  },
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^11.1.7",
+    "heroku": "^8.11.5",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
