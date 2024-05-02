@@ -7,15 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    
   },
-  {
-    "name": "moises-portfolio",
-    "description": "online portfolio",
-    "version": "1.0.1",
-    "engines": {
-      "node": "20.12.2"
-    }
+  "engines": {
+    "node": "20.12.2"
   },
+
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^11.1.7",
